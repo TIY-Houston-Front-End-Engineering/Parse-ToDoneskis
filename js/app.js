@@ -15,7 +15,7 @@ function app(){
         // when using just Backbone, use this line
         // {url: "./bower_components/backbone/backbone.js"},
         // when using Parse, comment out the above line and uncomment the line below
-        {url: "./bower_components/parse-js-sdk/lib/parse.js"},
+        {url: "./bower_components/parse-js-sdk/lib/parse.min.js"},
 
         // when using React (and the plugin JSnoX), uncomment the following two lines
         // {url: "./bower_components/react/react.min.js"},
